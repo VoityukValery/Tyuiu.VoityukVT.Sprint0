@@ -11,7 +11,7 @@ namespace Tyuiu.VoityukVT.Sprint0.Task6V0
     {
         static void Main(string[] args)
         {
-            int[] numsArray = new int[] { 2, 4, 6, 8, 10 };
+            int[] numsArray = new int[] { 2, 4, 6, 8, 11 };
 
             //Пример цикличной структуры находится в библиотеке классов. Метод AdditionArray
             Console.WriteLine("Сумма элементов массива = " + DataService.AdditionArray(numsArray));
