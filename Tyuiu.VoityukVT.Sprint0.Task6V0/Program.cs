@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Tyuiu.VoityukVT.Sprint0.Task6.V0.Lib;
-namespace Tyuiu.VoityukVT.Sprint0.Task6V0
+namespace Tyuiu.VoityukVT.Sprint0.Task6.V0
 {
     class Program
     {
