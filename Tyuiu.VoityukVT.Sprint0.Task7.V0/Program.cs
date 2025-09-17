@@ -55,9 +55,9 @@ namespace Tyuiu.VoityukVT.Sprint0.Task7.V0
                 Console.WriteLine("Сумма элементов массива равна:");
                 for (int i = 0; i < resultarray.Length; i++)
                 {
-                    Console.Write(resultarray[i] + ", ")
+                    Console.Write(resultarray[i] + ", ");
                 }
-            }
+                }
             else
             {
                 Console.WriteLine("ОШИБКА!!! Исходные массивы имеют разное количество элементов");
